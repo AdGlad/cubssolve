@@ -1,0 +1,17 @@
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\CubsSolve.deps.json
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\CubsSolve.runtimeconfig.json
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\CubsSolve.runtimeconfig.dev.json
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\CubsSolve.dll
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\CubsSolve.pdb
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.csprojAssemblyReference.cache
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.RazorAssemblyInfo.cache
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.RazorAssemblyInfo.cs
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.AssemblyInfoInputs.cache
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.AssemblyInfo.cs
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.RazorTargetAssemblyInfo.cache
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.dll
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\obj\Debug\netcoreapp2.1\CubsSolve.pdb
+C:\Users\glaa381\Cubs\dotnet\GCP\CubsSolve\bin\Debug\netcoreapp2.1\app.yaml
